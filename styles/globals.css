@@ -1,0 +1,6 @@
+body, body>div{
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color var(--fast-transition) color var(--fast-transition);
+
+}
